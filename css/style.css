@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/*---BARRA DE NAVEGAÇÃO---*/
+
+.navegacao{
+    background-color: #a0fe9d;
+    height: 160px;
+}
+
+a{
+    border: 1px solid black;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 200px;
+    padding-right: 140px;
+    font-size: 20px;
+    
+}
+
+.barra-navegacao{
+    padding: 20px;
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+.detalhes-navegacao{
+    border-right: none;
+    border-left: none;
+}
+
+.detalhes-navegacao1{
+    border-right: none;
+}
+
+nav{
+    background-color: #a0fe9d;
+}
+
+.login{
+    padding: 1400px;
+    border: 1px black;
+}
